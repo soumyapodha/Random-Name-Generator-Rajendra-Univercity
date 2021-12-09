@@ -1,6 +1,6 @@
-const firstNames = ["Hope", "Launa", "Katherine", "Walker", "Moses", "Tayna", "Rosia", "Yahaira", "Tommy", "Elwanda", "Clorinda", "Sheron", "Kayla", "Clementina", "Rene", "Rex", "Kathy", "Latoya", "Shirleen", "Shoshana"];
+const firstNames = ["Manish", "Soumya", "Sangita", "Binaya", "Sunita", "Arpit", "Golu", "Girgit", "Ankit", "Suman", "Manas", "Manisha", "Alok","Sumit", "Raj", "Suneana", "Mantu", "Raju", "Balbir","Bikram"];
 
-const secondNames = ["Chauncey", "Houchins", "Lama", "Frasca", "Houston", "Ake", "Shankles", "Cantor", "Mizell", "Cleland", "Maltby", "Tirrell", "Cary", "Mace", "Horta", "Carlile", "Deegan", "Torrez", "Humfeld", "Helgeson"];
+const secondNames = ["Lisa", "Biki", "Lima", "Avijit", "Kamal", "Pushpita", "Sagarika", "Sanjat", "Anand", "Chinu", "Alibha", "Subhankar", "Roji", "Satish", "Sanket", "Subham", "Subhankar", "Sudam", "Jogesh", "Shibun","Rakesh","Jaishankar", "Pinku"];
 
 const getRandomNumber = (max) => Math.floor(Math.random() * max);
 
