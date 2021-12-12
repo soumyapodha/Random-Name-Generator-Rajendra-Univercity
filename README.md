@@ -4,4 +4,4 @@ Generates random names with real-world probability. (Well the occurrence of firs
 
 Useful for generating test data for, err testing purposes.
 
-This random name generator can suggest names for babies, characters, or anything else that needs naming.
+This random name generator can suggest names for babies, characters, or anything else that needs naming and other.
